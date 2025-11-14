@@ -1,0 +1,5 @@
+{
+  "name": "RAG-Based Revenue Leakage Detection System",
+  "description": "An AI-powered tool that acts as a RAG-powered Enterprise Revenue Auditor to automatically detect revenue leakage by comparing relevant unstructured documents like contracts and invoices.",
+  "requestFramePermissions": []
+}
